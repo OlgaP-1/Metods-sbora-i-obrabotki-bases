@@ -1,0 +1,802 @@
+[
+  {
+    "name": "DevOps Engineer",
+    "employer": " ZAVOD Games",
+    "min_salary": "170 000",
+    "max_salary": "250 000 руб.",
+    "href": "https://hh.ru/vacancy/42301915?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python разработчик",
+    "employer": " Digital Hub",
+    "min_salary": "90 000",
+    "max_salary": "110 000 руб.",
+    "href": "https://hh.ru/vacancy/42855358?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python-разработчик",
+    "employer": " ivi",
+    "min_salary": "160 000",
+    "max_salary": "200 000 руб.",
+    "href": "https://hh.ru/vacancy/42277259?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python / C++ разработчик",
+    "employer": " Wunder Fund",
+    "min_salary": "150 000",
+    "max_salary": "200 000 руб.",
+    "href": "https://hh.ru/vacancy/42783010?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Senior Backend-разработчик (Python)",
+    "employer": " Hoodies",
+    "min_salary": "200 000",
+    "max_salary": "320 000 руб.",
+    "href": "https://hh.ru/vacancy/41649102?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python разработчик",
+    "employer": " Филиал компании Лист Ренталс Лимитед",
+    "min_salary": "1 500",
+    "max_salary": "4 000 USD",
+    "href": "https://hh.ru/vacancy/42766512?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python-разработчик (Django, DRF)",
+    "employer": "ООО Фабрика Решений",
+    "min_salary": "60 000",
+    "max_salary": "150 000 руб.",
+    "href": "https://hh.ru/vacancy/39736489?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python Backend Developer",
+    "employer": " Кан Александр Сергеевич",
+    "min_salary": "40 000",
+    "max_salary": "50 000 руб.",
+    "href": "https://hh.ru/vacancy/42965532?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Программист Python",
+    "employer": "ООО Артистраж",
+    "min_salary": "60 000",
+    "max_salary": "200 000 руб.",
+    "href": "https://hh.ru/vacancy/42844642?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python/Django разработчик",
+    "employer": " idaproject",
+    "min_salary": "70 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42799332?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python разработчик",
+    "employer": " Университет искусственного интеллекта",
+    "min_salary": "70 000",
+    "max_salary": "80 000 руб.",
+    "href": "https://hh.ru/vacancy/42844788?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python-разработчик",
+    "employer": " IVIDEON",
+    "min_salary": "170 000",
+    "max_salary": "230 000 руб.",
+    "href": "https://hh.ru/vacancy/43002250?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Scientist (компьютерное зрение)",
+    "employer": "ООО Дип Системс",
+    "min_salary": "70 000",
+    "max_salary": "400 000 руб.",
+    "href": "https://hh.ru/vacancy/42813933?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Engineer",
+    "employer": "ООО Айти-Солюшнс",
+    "min_salary": "250 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/41469811?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Quantitative researcher",
+    "employer": " Wunder Fund",
+    "min_salary": "350 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42932744?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Разработчик Python",
+    "employer": "АО Русатом Инфраструктурные Решения",
+    "min_salary": "80 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42937246?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Разработчик Python",
+    "employer": " GRAFFIT",
+    "min_salary": null,
+    "max_salary": "50 000 руб",
+    "href": "https://hh.ru/vacancy/42564873?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Разработчик Python",
+    "employer": " Университет искусственного интеллекта",
+    "min_salary": "70 000",
+    "max_salary": "80 000 руб.",
+    "href": "https://hh.ru/vacancy/42830258?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Аналитик / Data Analyst (Product Analyst)",
+    "employer": "ООО Далитикс",
+    "min_salary": "100 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42814545?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Ведущий аналитик данных/Data Analyst",
+    "employer": " Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+    "min_salary": "180 000",
+    "max_salary": "220 000 руб.",
+    "href": "https://hh.ru/vacancy/42957933?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python Backend разработчик",
+    "employer": "ООО Декаст Инжиниринг",
+    "min_salary": "150 000",
+    "max_salary": "250 000 руб.",
+    "href": "https://hh.ru/vacancy/42555938?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python разработчик",
+    "employer": " Ассоциация IPChain",
+    "min_salary": "170 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42600063?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python Developer / ML Engineer",
+    "employer": " Hunt For You",
+    "min_salary": "5 000",
+    "max_salary": "8 000 USD",
+    "href": "https://hh.ru/vacancy/42878760?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Разработчик Python",
+    "employer": "ООО Доверенная среда",
+    "min_salary": "180 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/41784502?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Middle разработчик Python / Django (удалённо)",
+    "employer": "ООО Диджитал Пайн",
+    "min_salary": "60 000",
+    "max_salary": "120 000 руб.",
+    "href": "https://hh.ru/vacancy/42822407?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python QA Engineer Intern",
+    "employer": " ViCue Soft",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42674523?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Junior разработчик Python (Django)",
+    "employer": "ООО Максконсалт",
+    "min_salary": "40 000",
+    "max_salary": "60 000 руб.",
+    "href": "https://hh.ru/vacancy/42684107?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Программист Python",
+    "employer": "ООО ФК ПУЛЬС",
+    "min_salary": "140 000",
+    "max_salary": "180 000 руб.",
+    "href": "https://hh.ru/vacancy/42226188?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Backend-разработчик Python",
+    "employer": "ООО Мирамедикс",
+    "min_salary": "170 000",
+    "max_salary": "230 000 руб.",
+    "href": "https://hh.ru/vacancy/42588879?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Программист Python",
+    "employer": "ООО Станкогрупп",
+    "min_salary": "30 000",
+    "max_salary": "50 000 руб.",
+    "href": "https://hh.ru/vacancy/42884573?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python developer",
+    "employer": " NetworkOptix",
+    "min_salary": "4 000 US",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/30005963?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Ведущий специалист по Machine learning",
+    "employer": " Адалиск",
+    "min_salary": "250 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42202946?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Аналитик (Python, SQL)",
+    "employer": " Mediascope",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42121683?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Бекенд Python-разработчик (Django)",
+    "employer": "ООО Диджитал Линк",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42802585?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python разработчик",
+    "employer": " idaproject",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42842536?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Engineer",
+    "employer": " Dostavista Global",
+    "min_salary": "230 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42326397?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python разработчик",
+    "employer": " ВАВТ МИНЭКОНОМРАЗВИТИЯ РОССИИ",
+    "min_salary": "100 000",
+    "max_salary": "160 000 руб.",
+    "href": "https://hh.ru/vacancy/41095804?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Младший компьютерный лингвист (Python)",
+    "employer": " Институт прикладных экономических исследований РАНХиГС при Президенте Российской Федерации",
+    "min_salary": "120 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42209146?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Аналитик данных (data scientist)",
+    "employer": " Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+    "min_salary": null,
+    "max_salary": "120 000 руб",
+    "href": "https://hh.ru/vacancy/42974100?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Scientist",
+    "employer": " COMPAREX",
+    "min_salary": "150 000",
+    "max_salary": "250 000 руб.",
+    "href": "https://hh.ru/vacancy/42713907?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Back-end разработчик Python",
+    "employer": " Insilico Medicine",
+    "min_salary": "160 000",
+    "max_salary": "190 000 руб.",
+    "href": "https://hh.ru/vacancy/42706234?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Teamlead Backend (Python)",
+    "employer": "ООО Фабрика Решений",
+    "min_salary": "120 000",
+    "max_salary": "300 000 руб.",
+    "href": "https://hh.ru/vacancy/40840868?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Junior Data Analyst",
+    "employer": " HASH CIB",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42886507?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Backend python/Django разработчик",
+    "employer": "ООО БОЛЬШАЯ ТРОЙКА",
+    "min_salary": "120 000",
+    "max_salary": "200 000 руб.",
+    "href": "https://hh.ru/vacancy/42598849?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Разработчик Python (middle Python developer)",
+    "employer": "АО НПО АНГСТРЕМ",
+    "min_salary": "120 000",
+    "max_salary": "150 000 руб.",
+    "href": "https://hh.ru/vacancy/42419682?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Разработчик (С++, Python)",
+    "employer": " Адалиск",
+    "min_salary": "150 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42421827?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "FullStack Developer (Python Django, React)",
+    "employer": " Supernice",
+    "min_salary": "270 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42959540?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python-разработчик (Senior)",
+    "employer": " Russian Quantum Center",
+    "min_salary": "150 000",
+    "max_salary": "250 000 руб.",
+    "href": "https://hh.ru/vacancy/42602096?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Scientist",
+    "employer": "ООО Артистраж",
+    "min_salary": "60 000",
+    "max_salary": "200 000 руб.",
+    "href": "https://hh.ru/vacancy/42844649?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Разработчик (Python)",
+    "employer": " Институт прикладных экономических исследований РАНХиГС при Президенте Российской Федерации",
+    "min_salary": "100 000",
+    "max_salary": "160 000 руб.",
+    "href": "https://hh.ru/vacancy/40551245?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Senior Backend Python/Django разработчик (удалённо)",
+    "employer": " Школа программирования Kodland",
+    "min_salary": "200 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/41407110?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Scientist / Quantitative Researcher",
+    "employer": "ООО Знаменка Капитал",
+    "min_salary": "250 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/39912622?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Full-Stack (React.js + Node.js/Python) Developer to the UAE",
+    "employer": " Soshace",
+    "min_salary": "8 000",
+    "max_salary": "12 000 USD",
+    "href": "https://hh.ru/vacancy/42831306?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python Программист разработчик",
+    "employer": "ООО РНД поинт",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42676588?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Backend-разработчик (Python)",
+    "employer": " SOCIARO Inc.",
+    "min_salary": null,
+    "max_salary": "90 000 руб",
+    "href": "https://hh.ru/vacancy/42937504?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python-Разработчик (удаленно)",
+    "employer": " BestDoctor",
+    "min_salary": null,
+    "max_salary": "280 000 руб",
+    "href": "https://hh.ru/vacancy/42882086?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Senior Python developer",
+    "employer": " Rutube",
+    "min_salary": "200 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/41263186?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Разработчик Python",
+    "employer": "ООО Анлимитед Продакшен",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42970947?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Senior Python developer( teamlead)/ Middle Python developer",
+    "employer": " ASD Korea",
+    "min_salary": "250 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42343352?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Engineer (Python)",
+    "employer": " Prisma Labs, inc.",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42432726?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Программист Python/JavaScript секретарь",
+    "employer": "ООО ИнфоТех",
+    "min_salary": "60 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42411532?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Engineer",
+    "employer": " Prequel",
+    "min_salary": "200 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42453126?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Ведущий Python разработчик (Senior/Middle+ Developer)",
+    "employer": "ООО PROGNET",
+    "min_salary": "200 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42620710?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python/Scrapy разработчик",
+    "employer": " Datacrafts",
+    "min_salary": "200 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42879573?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Backend Python Developer (USD Salary, Remote)",
+    "employer": " Gravitum",
+    "min_salary": "250 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42770299?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Программист-математик/Алгоритмист (США)",
+    "employer": "ООО Parascript",
+    "min_salary": null,
+    "max_salary": "7 000 US",
+    "href": "https://hh.ru/vacancy/42251823?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Middle/Senior ML Engineer",
+    "employer": " Gradient",
+    "min_salary": "250 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42544459?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python/Go разработчик",
+    "employer": " Quiet Media",
+    "min_salary": "140 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42808923?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Senior Fullstack Developer (Python, React, remote)",
+    "employer": " Hunt For You",
+    "min_salary": "4 000",
+    "max_salary": "6 000 USD",
+    "href": "https://hh.ru/vacancy/42878463?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Senior Python Backend Developer (Machine Learning)",
+    "employer": " FunCorp",
+    "min_salary": "250 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/39388485?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Senior Software Engineer (Python)",
+    "employer": "ООО Алемира Рисерч",
+    "min_salary": "250 000",
+    "max_salary": "300 000 руб.",
+    "href": "https://hh.ru/vacancy/42916478?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python Developer - Data Scientist",
+    "employer": " Группа КБ-12",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42990902?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Аналитик данных / Data analyst",
+    "employer": "ООО GetBlogger",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42715899?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data scientist",
+    "employer": "ЗАО Группа компаний С7",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42880923?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python backend разработчик",
+    "employer": " UAB Softeka",
+    "min_salary": "140 000",
+    "max_salary": "160 000 руб.",
+    "href": "https://hh.ru/vacancy/42633232?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Scientist",
+    "employer": "ООО Максконсалт",
+    "min_salary": "180 000",
+    "max_salary": "250 000 руб.",
+    "href": "https://hh.ru/vacancy/42683816?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Аналитик Data Science / Аналитик данных",
+    "employer": " СИЛА В МЫСЛИ",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42783307?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Senior Python/Go Engineer - Backend Product team [Remote]",
+    "employer": " Coins.ph",
+    "min_salary": "5 000",
+    "max_salary": "7 000 USD",
+    "href": "https://hh.ru/vacancy/41546782?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Scientist (middle or senior)",
+    "employer": "ООО РАБЛЗ",
+    "min_salary": null,
+    "max_salary": "500 000 руб",
+    "href": "https://hh.ru/vacancy/42956307?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Backend developer",
+    "employer": " Интернет-агентство Simple Media",
+    "min_salary": "250 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42806929?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Аналитик данных Python",
+    "employer": "ООО Страховая компания «Сбербанк страхование»",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42869125?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Middle/senior Python Developer",
+    "employer": " Климов Станислав Игоревич",
+    "min_salary": "120 000",
+    "max_salary": "200 000 руб.",
+    "href": "https://hh.ru/vacancy/42398844?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python developer",
+    "employer": " B2Broker Москва",
+    "min_salary": "180 000",
+    "max_salary": "230 000 руб.",
+    "href": "https://hh.ru/vacancy/36267171?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Middle data scientist",
+    "employer": " МАГНИТ, Розничная сеть",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42965194?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Engineer",
+    "employer": " Level.Travel",
+    "min_salary": null,
+    "max_salary": "180 000 руб",
+    "href": "https://hh.ru/vacancy/42926388?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Ведущий программист Python",
+    "employer": "ООО ФК ПУЛЬС",
+    "min_salary": "160 000",
+    "max_salary": "220 000 руб.",
+    "href": "https://hh.ru/vacancy/36618179?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Scientist",
+    "employer": " ИДС Боржоми",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42967698?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Аналитик-исследователь",
+    "employer": "ООО Высшая Школа Образования",
+    "min_salary": null,
+    "max_salary": "150 000 руб",
+    "href": "https://hh.ru/vacancy/42620422?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python разработчик (middle) (backend)",
+    "employer": "ООО Лендсбэй",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42951641?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python Developer",
+    "employer": "ООО Paysend",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/40608975?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Инженер по автоматизации тестирования / Python разработчик",
+    "employer": "ООО Основа Лаб",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42254250?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python разработчик",
+    "employer": "ИП IT studio Arkell",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42954255?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Scientist",
+    "employer": " КСК-Эйч Ар",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/42917411?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Senior/Middle ML Engineer (Data Scientist)",
+    "employer": "ООО Адаперио",
+    "min_salary": "200 000 руб",
+    "max_salary": null,
+    "href": "https://hh.ru/vacancy/42617637?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Разработчик Python",
+    "employer": " ДомКлик",
+    "min_salary": "",
+    "max_salary": "",
+    "href": "https://hh.ru/vacancy/40835889?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Data Scientist",
+    "employer": "ООО МАГ Девелопмент",
+    "min_salary": "120 000",
+    "max_salary": "180 000 руб.",
+    "href": "https://hh.ru/vacancy/42832748?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python-разработчик (удаленно)",
+    "employer": " Enjoypro",
+    "min_salary": null,
+    "max_salary": "160 000 руб",
+    "href": "https://hh.ru/vacancy/42427658?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Python QA Automation",
+    "employer": "ООО Кузница Кадров",
+    "min_salary": "120 000",
+    "max_salary": "240 000 руб.",
+    "href": "https://hh.ru/vacancy/42522130?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Программист Python / Team Lead",
+    "employer": " Runexis",
+    "min_salary": null,
+    "max_salary": "200 000 руб",
+    "href": "https://hh.ru/vacancy/42924262?query=python",
+    "website": "https://hh.ru"
+  },
+  {
+    "name": "Computer Vision Engineer",
+    "employer": " Фрифлекс",
+    "min_salary": "110 000",
+    "max_salary": "180 000 руб.",
+    "href": "https://hh.ru/vacancy/42780421?query=python",
+    "website": "https://hh.ru"
+  }
+]
