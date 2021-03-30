@@ -22,7 +22,7 @@ class LeruamerlenImagesPipeline(ImagesPipeline):
                     yield scrapy.Request(photo_url)
                 except Exception as e:
                     print(e)
-        # print()
+
     def item_completed(self, results, item, info):
         if results:
             item['photos'] = [i[1] for i in results]
@@ -33,18 +33,17 @@ class LeruamerlenPipeline:
     def __init__(self):
         self.client = MongoClient(MONGO_URL)
         self.db = self.client['Leruamerlen']
+        # по коду ниже под '#' парсинг не работает по не понятной причине
+    	# def join_price(value):
+    	# return float(''.join(value))
+        
     def process_item(self, item, spider):
         item['price'] = ','.join(item['price'])
         item['price_square'] = ''.join(item['price_square'])
         item['dic'] = dict(zip(item['features_keys'], [re.sub(r'\s+', '', i.replace('\n', '')) for i in item['features']]))
         del [item['features']]
         del [item['features_keys']]
-        # for i in item['features']:
-        #     yield i.split('\n', '')
-        #     # print(item['features'])
-        # if item['features_keys']:
-        #     yield dict(keys=item['features_keys'], values=item['features'])
-        print()
+        
         collection = self.db[spider.name]
         collection.update_one({item['href']: 'href'}, {'$set': item}, upsert=True)
         return item
