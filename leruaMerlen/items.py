@@ -6,10 +6,6 @@
 import scrapy
 from scrapy.loader.processors import MapCompose, TakeFirst
 
-# def get_big_img_url(url):
-#     return url.replace('/m/', '/b/').replace('/s/', '/b/')
-
-
 class LeruamerlenItem(scrapy.Item):
     # define the fields for your item here like:
     name = scrapy.Field(output_processor=TakeFirst())
@@ -22,4 +18,9 @@ class LeruamerlenItem(scrapy.Item):
     features = scrapy.Field()
     features_keys = scrapy.Field()
     dic = scrapy.Field()
+    
+    # код ниже под '#' не работает по не понятной причине
+    # price = scrapy.Field(output_processor=TakeFirst(), input_processor=MapCompose(price_params))
+    # price_square = scrapy.Field(output_processor=TakeFirst(), input_processor=MapCompose(price_params))
+    # dic = scrapy.Field(input_processor=Compose(feature_params))
 
